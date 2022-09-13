@@ -1,0 +1,210 @@
+{
+  "N1440131521": {
+    "clicked": false,
+    "favourite": true,
+    "firebaseKey": "",
+    "geometry": {
+      "coordinates": {
+        "0": 2.3432741,
+        "1": 48.8506012
+      },
+      "type": "Point"
+    },
+    "id": "11542245",
+    "mouseEnter": false,
+    "properties": {
+      "kinds": "architecture,historic_architecture,historic,archaeology,interesting_places,baths_and_saunas,saunas,other_archaeological_sites,amusements,other_buildings_and_structures",
+      "name": "Thermes de Cluny",
+      "osm": "node/1440131521",
+      "rate": 7,
+      "wikidata": "Q2669368",
+      "xid": "N1440131521"
+    },
+    "type": "Feature",
+    "wikidata": {
+      "address": {
+        "city": "Paris",
+        "city_district": "5e",
+        "country": "France",
+        "country_code": "fr",
+        "county": "Paris",
+        "house": "Musée de Cluny",
+        "house_number": "6",
+        "postcode": "75005",
+        "road": "Place Paul Painlevé",
+        "state": "Île-de-France",
+        "suburb": "Sorbonne"
+      },
+      "image": "https://commons.wikimedia.org/wiki/File:CLUNY-Maquette_thermes_2.JPG",
+      "kinds": "architecture,historic_architecture,historic,archaeology,interesting_places,baths_and_saunas,saunas,other_archaeological_sites,amusements,other_buildings_and_structures",
+      "name": "Thermes de Cluny",
+      "osm": "node/1440131521",
+      "otm": "https://opentripmap.com/en/card/N1440131521",
+      "point": {
+        "lat": 48.85060119628906,
+        "lon": 2.3432741165161133
+      },
+      "preview": {
+        "height": 240,
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/CLUNY-Maquette_thermes_2.JPG/400px-CLUNY-Maquette_thermes_2.JPG",
+        "width": 400
+      },
+      "rate": "3h",
+      "sources": {
+        "attributes": {
+          "0": "osm",
+          "1": "wikidata"
+        },
+        "geometry": "osm"
+      },
+      "wikidata": "Q2669368",
+      "wikipedia": "https://en.wikipedia.org/wiki/Thermes%20de%20Cluny",
+      "wikipedia_extracts": {
+        "html": "<p>The <b>Thermes de Cluny</b> are the ruins of Gallo-Roman thermal baths lying in the heart of Paris' 5th arrondissement, and which are partly subsumed into the Musée national du Moyen Âge - Thermes et hôtel de Cluny.</p><p>The present bath ruins constitute about one-third of a massive bath complex that is believed to have been constructed around the beginning of the 3rd century. The best preserved room is the <i>frigidarium</i>, with intact architectural elements such as Gallo-Roman vaults, ribs and consoles, and fragments of original decorative wall painting and mosaics.</p>",
+        "text": "The Thermes de Cluny are the ruins of Gallo-Roman thermal baths lying in the heart of Paris' 5th arrondissement, and which are partly subsumed into the Musée national du Moyen Âge - Thermes et hôtel de Cluny.The present bath ruins constitute about one-third of a massive bath complex that is believed to have been constructed around the beginning of the 3rd century. The best preserved room is the frigidarium, with intact architectural elements such as Gallo-Roman vaults, ribs and consoles, and fragments of original decorative wall painting and mosaics.",
+        "title": "en:Thermes de Cluny"
+      },
+      "xid": "N1440131521"
+    }
+  },
+  "N250657151": {
+    "clicked": false,
+    "favourite": true,
+    "geometry": {
+      "coordinates": {
+        "0": 2.3480523,
+        "1": 48.8642998
+      },
+      "type": "Point"
+    },
+    "id": "11374979",
+    "mouseEnter": false,
+    "properties": {
+      "kinds": "towers,architecture,fortifications,historic,cultural,museums,interesting_places,castles,other_museums,other_towers",
+      "name": "Tour de Jean-sans-Peur",
+      "osm": "node/250657151",
+      "rate": 7,
+      "wikidata": "Q3533101",
+      "xid": "N250657151"
+    },
+    "type": "Feature",
+    "wikidata": {
+      "address": {
+        "city": "Paris",
+        "city_district": "2e",
+        "country": "France",
+        "country_code": "fr",
+        "county": "Paris",
+        "house_number": "20",
+        "neighbourhood": "Quartier des Halles",
+        "postcode": "75002",
+        "road": "Rue Étienne Marcel",
+        "state": "Île-de-France",
+        "suburb": "Les Halles"
+      },
+      "image": "https://commons.wikimedia.org/wiki/File:Paris_-_Tour_Jean-Sans-Peur.JPG",
+      "kinds": "towers,architecture,fortifications,historic,cultural,museums,interesting_places,castles,other_museums,other_towers",
+      "name": "Tour de Jean-sans-Peur",
+      "osm": "node/250657151",
+      "otm": "https://opentripmap.com/en/card/N250657151",
+      "point": {
+        "lat": 48.86429977416992,
+        "lon": 2.3480522632598877
+      },
+      "preview": {
+        "height": 400,
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Paris_-_Tour_Jean-Sans-Peur.JPG/200px-Paris_-_Tour_Jean-Sans-Peur.JPG",
+        "width": 200
+      },
+      "rate": "3h",
+      "sources": {
+        "attributes": {
+          "0": "osm",
+          "1": "wikidata"
+        },
+        "geometry": "osm"
+      },
+      "url": "http://www.tourjeansanspeur.com/",
+      "wikidata": "Q3533101",
+      "wikipedia": "https://en.wikipedia.org/wiki/Tour%20Jean-sans-Peur",
+      "wikipedia_extracts": {
+        "html": "<p>The <b>Tour Jean-sans-Peur</b> or <b>Tour de Jean sans Peur</b> (English: Tower of John the Fearless), located in the 2nd arrondissement of Paris, is the last vestige of the <b>Hôtel de Bourgogne</b>, the residence first of the Counts of Artois and then the Dukes of Burgundy. The tower contained bed chambers and the grand stairway of the original residence, which stood next to it. It was completed between 1409–1411 by Jean sans Peur. The original <i>hôtel</i> occupied about a hectare of land, the boundaries of which are now marked by the rues Étienne Marcel, Montorgueil, Saint-Sauveur, and Saint-Denis. The tower itself is located at 20 rue Étienne Marcel, in the courtyard of an elementary school. It is one of the best surviving examples of medieval residential architecture in Paris. The tower is open to the public and presents changing expositions on life in the Middle Ages.</p>",
+        "text": "The Tour Jean-sans-Peur or Tour de Jean sans Peur (English: Tower of John the Fearless), located in the 2nd arrondissement of Paris, is the last vestige of the Hôtel de Bourgogne, the residence first of the Counts of Artois and then the Dukes of Burgundy. The tower contained bed chambers and the grand stairway of the original residence, which stood next to it. It was completed between 1409–1411 by Jean sans Peur. The original hôtel occupied about a hectare of land, the boundaries of which are now marked by the rues Étienne Marcel, Montorgueil, Saint-Sauveur, and Saint-Denis. The tower itself is located at 20 rue Étienne Marcel, in the courtyard of an elementary school. It is one of the best surviving examples of medieval residential architecture in Paris. The tower is open to the public and presents changing expositions on life in the Middle Ages.",
+        "title": "en:Tour Jean-sans-Peur"
+      },
+      "xid": "N250657151"
+    }
+  },
+  "W55541122": {
+    "clicked": false,
+    "favourite": true,
+    "geometry": {
+      "coordinates": {
+        "0": 2.3587523,
+        "1": 48.8535233
+      },
+      "type": "Point"
+    },
+    "id": "11290163",
+    "mouseEnter": false,
+    "properties": {
+      "kinds": "fortifications,historic,interesting_places,castles",
+      "name": "Hôtel de Sens",
+      "osm": "way/55541122",
+      "rate": 7,
+      "wikidata": "Q1374604",
+      "xid": "W55541122"
+    },
+    "type": "Feature",
+    "wikidata": {
+      "address": {
+        "city": "Paris",
+        "city_district": "4e",
+        "country": "France",
+        "country_code": "fr",
+        "county": "Paris",
+        "house_number": "6",
+        "postcode": "75004",
+        "road": "Rue de l'Hôtel de Ville",
+        "state": "Île-de-France",
+        "suburb": "St-Gervais"
+      },
+      "bbox": {
+        "lat_max": 48.853719,
+        "lat_min": 48.853333,
+        "lon_max": 2.359193,
+        "lon_min": 2.358579
+      },
+      "image": "https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Sens_1.jpg",
+      "kinds": "fortifications,historic,interesting_places,castles",
+      "name": "Hôtel de Sens",
+      "osm": "way/55541122",
+      "otm": "https://opentripmap.com/en/card/W55541122",
+      "point": {
+        "lat": 48.85352325439453,
+        "lon": 2.3587522506713867
+      },
+      "preview": {
+        "height": 318,
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/H%C3%B4tel_de_Sens_1.jpg/400px-H%C3%B4tel_de_Sens_1.jpg",
+        "width": 400
+      },
+      "rate": "3h",
+      "sources": {
+        "attributes": {
+          "0": "osm",
+          "1": "wikidata"
+        },
+        "geometry": "osm"
+      },
+      "wikidata": "Q1374604",
+      "wikipedia": "https://en.wikipedia.org/wiki/H%C3%B4tel%20de%20Sens",
+      "wikipedia_extracts": {
+        "html": "<p>The <b>Hôtel de Sens</b> (<small>French pronunciation:&nbsp;​</small><span title=\"Representation in the International Phonetic Alphabet (IPA)\">[otɛl də sɑ̃s]</span>) or <b>Hôtel des archevêques de Sens</b> is a medieval <i>hôtel particulier</i>, or private mansion, in the Marais, in the 4th arrondissement of Paris, France. It nowadays houses the Forney art library.</p><p>The <i>hôtel</i> was built to serve as a residence for the archbishops of Sens. Before 1622, Paris was not a specific<b> </b>archdiocese, and depended on the diocesan<b> </b>authority of Sens. The archbishop was a prominent figure of power, his residence reflecting his influence within the urban landscape.</p>",
+        "text": "The Hôtel de Sens (French pronunciation: [otɛl də sɑ̃s]) or Hôtel des archevêques de Sens is a medieval hôtel particulier, or private mansion, in the Marais, in the 4th arrondissement of Paris, France. It nowadays houses the Forney art library.The hôtel was built to serve as a residence for the archbishops of Sens. Before 1622, Paris was not a specific archdiocese, and depended on the diocesan authority of Sens. The archbishop was a prominent figure of power, his residence reflecting his influence within the urban landscape.",
+        "title": "en:Hôtel de Sens"
+      },
+      "xid": "W55541122"
+    }
+  }
+}

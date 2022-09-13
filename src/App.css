@@ -1,0 +1,93 @@
+.App {
+  text-align: center;
+}
+
+.card-group {
+  display: flex;
+}
+
+header col {
+  padding: 0;
+  align-self: center;
+  align-content: center;
+  align-items: center;
+}
+
+/* div.row {
+  width: 100vw;
+} */
+
+div.container {
+  max-width: 100vw;
+  background-color: black;
+}
+
+/* .header-container {
+  background-color: black;
+} */
+
+.header {
+  align-self: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: large;
+  color: white;
+  height: 6vh;
+  padding: 0;
+}
+
+.header a {
+  color: white;
+}
+
+.home {
+  display: flex;
+  /* width: 100vw; */
+  height: 9vh;
+}
+
+/* .container-fluid {
+  padding: 0;
+  height: 94vh;
+} */
+
+.map-container {
+  height: 94vh;
+  /* width: 70vw; */
+}
+
+.listOfPlaces {
+  height: 85vh;
+  /* width: 29vw; */
+  overflow-y: scroll;
+}
+
+.places {
+  padding: 5px 0px;
+  padding-right: 10px;
+}
+
+/* .mapboxgl-marker {
+  background-color: #4caf50;
+  border: 1px solid blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 50%;
+} */
+
+input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 5px 15px;
+  margin-bottom: 5px;
+  font-size: 14px;
+}

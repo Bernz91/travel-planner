@@ -1,0 +1,97 @@
+[
+  {
+    "type": "Feature",
+    "id": "941543",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [115.8786926, -31.9558239]
+    },
+    "properties": {
+      "xid": "W4791440",
+      "name": "East Perth Cemeteries",
+      "rate": 7,
+      "osm": "way/4791440",
+      "wikidata": "Q5329138",
+      "kinds": "cemeteries,historic,burial_places,interesting_places"
+    },
+    "clicked": false,
+    "wikidata": {},
+    "mouseEnter": false
+  },
+  {
+    "type": "Feature",
+    "id": "7351701",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [115.8443832, -31.954052]
+    },
+    "properties": {
+      "xid": "N60333731",
+      "name": "Edith Dircksey Cowan Memorial",
+      "rate": 7,
+      "osm": "node/60333731",
+      "wikidata": "Q5338532",
+      "kinds": "historic,monuments_and_memorials,urban_environment,cultural,interesting_places,sculptures,monuments"
+    },
+    "clicked": false,
+    "wikidata": {},
+    "mouseEnter": false
+  },
+  {
+    "type": "Feature",
+    "id": "11566242",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [115.848877, -31.9522285]
+    },
+    "properties": {
+      "xid": "W48446878",
+      "name": "Barracks Arch",
+      "rate": 7,
+      "osm": "way/48446878",
+      "wikidata": "Q4863179",
+      "kinds": "fortifications,historic,interesting_places,castles"
+    },
+    "clicked": false,
+    "wikidata": {},
+    "mouseEnter": false
+  },
+  {
+    "type": "Feature",
+    "id": "11596045",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [115.8462296, -31.9516735]
+    },
+    "properties": {
+      "xid": "W8112692",
+      "name": "Solidarity Park",
+      "rate": 7,
+      "osm": "way/8112692",
+      "wikidata": "Q7557989",
+      "kinds": "historic,monuments_and_memorials,burial_places,urban_environment,gardens_and_parks,cultural,interesting_places,other_burial_places,monuments"
+    },
+    "clicked": false,
+    "wikidata": {},
+    "mouseEnter": false
+  },
+  {
+    "type": "Feature",
+    "id": "11689059",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [115.8570251, -31.9576817]
+    },
+    "properties": {
+      "xid": "N4454865216",
+      "name": "\"Spanda\" Sculpture",
+      "rate": 3,
+      "osm": "node/4454865216",
+      "wikidata": "Q96406140",
+      "kinds": "historic,monuments_and_memorials,urban_environment,cultural,interesting_places,sculptures,monuments"
+    },
+    "clicked": false,
+    "wikidata": {},
+    "mouseEnter": false
+  }
+]
